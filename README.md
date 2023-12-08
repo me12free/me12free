@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋 I'm John Ekiru</h1>
 
-<h3 align="center">Tech Enthusiast | Certified Salesforce Administrator | Business Information Technology Student @Strathmore University | Software Engineering Student @ALX | Salesforce Ecosystem | Continuous Learner | Passionate about Shaping the Future of Business IT | Embracing Challenges and Anticipating Opportunities</h3>
+<h3 align="center">Tech Enthusiast | Salesforce Certified Administrator | Salesforce Certified Sales CLoud Consultant | Business Information Technology Student @Strathmore University | Software Engineering Student @ALX | Salesforce Ecosystem | Continuous Learner | Passionate about Shaping the Future of Business IT | Embracing Challenges and Anticipating Opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me12free&label=Profile%20views&color=0e75b6&style=flat" alt="me12free" /> </p>
 
