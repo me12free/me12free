@@ -1,13 +1,13 @@
-<h1 align="center">Hi there! 👋 I'm John Ekiru</h1>
+<h1 align="center">Hello! I'm John Ekiru</h1>
 
-<h3 align="center">Tech Enthusiast | Salesforce Certified Administrator | Salesforce Certified Sales CLoud Consultant | Business Information Technology Student @Strathmore University | Software Engineering Student @ALX | Salesforce Ecosystem | Continuous Learner | Passionate about Shaping the Future of Business IT | Embracing Challenges and Anticipating Opportunities</h3>
+<h3 align="center">A Laravel Developer | Salesforce Certified Administrator | Salesforce Certified Sales CLoud Consultant | Software Engineer | Continuous Learner | Passionate about Shaping the Future of Business IT | Embracing Challenges and Anticipating Opportunities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=me12free&label=Profile%20views&color=0e75b6&style=flat" alt="me12free" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=me12free" alt="me12free" /></a> </p>
 
-- 🔭 Currently open to exciting Salesforce Administrator Opportunities as a **Salesforce Administrator**
-- 🌱 Currently learning and exploring the depths of **Trailhead (Salesforce)**
+- 🔭 Currently open to exciting Laravel Developer & Salesforce Administrator Opportunities as a **Salesforce Administrator**
+- 🌱 Learning and exploring the depths of **Trailhead (Salesforce)**
 - 👯 Eager to collaborate on **Open Source Projects**
 - 💬 Ask me about anything tech-related, I'm all ears!
 - 📫 Reach me at: [johnewoi72@gmail.com](mailto:johnewoi72@gmail.com)
