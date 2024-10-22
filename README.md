@@ -17,8 +17,8 @@
 <p align="left">
   <a href="https://dev.to/me12free" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="me12free" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/john-ekiru-2797a01b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john ekiru" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/john.ewoi.180410/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john ekiru" height="30" width="40" /></a>
-</p>
+<!--   <a href="https://web.facebook.com/john.ewoi.180410/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="john ekiru" height="30" width="40" /></a>
+</p> -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
