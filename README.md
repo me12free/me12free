@@ -1,6 +1,6 @@
 ### <h1 align="center">🚀 Hello, I'm John Ekiru! 👋</h1>
 
-<h3 align="center">### 🚀A Laravel Developer | 🏅Salesforce Certified Administrator🏅 | 🏅Salesforce Certified Sales Cloud Consultant🏅 |  📚 Continuous Learner 📚  |  💡 Tech Enthusiast💡</h3>
+<h3 align="center"> 🚀A Laravel Developer🚀 | 🏅Salesforce Certified Administrator🏅 | 🏅Salesforce Certified Sales Cloud Consultant🏅 |  📚 Continuous Learner 📚  |  💡 Tech Enthusiast💡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=me12free&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
