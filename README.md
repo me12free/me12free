@@ -10,7 +10,7 @@
 
 ### 🔥 About Me
 
-- 🔭 **Currently open** to exciting **Laravel Developer & Salesforce Administrator** opportunities.
+- 🔭 **Currently open** to exciting **Software Developer & Salesforce Administrator** opportunities.
 - 🌱 Diving deep into **Trailhead (Salesforce)** to expand my expertise.
 - 👯 Open to collaborating on **Open Source Projects** and innovative ideas.
 - 💬 Feel free to ask me anything tech-related – I'm always happy to help!
