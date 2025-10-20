@@ -1,6 +1,6 @@
 ### <h1 align="center">🚀 Hello, I'm John Ekiru! 👋</h1>
 
-<h3 align="center"> 🚀A Software Developer🚀 | 🏅Salesforce Certified Administrator🏅 | 🏅Salesforce Certified Sales Cloud Consultant🏅 |  📚 Continuous Learner 📚  |  💡 Tech Enthusiast💡</h3>
+<h3 align="center"> 🚀A Software Engineer🚀 | Systems Administrator | 📚 Continuous Learner 📚  |  💡 Tech Enthusiast💡</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=me12free&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -10,7 +10,7 @@
 
 ### 🔥 About Me
 
-- 🔭 **Currently open** to exciting **Software Developer & Salesforce Administrator** opportunities.
+- 🔭 **Currently open** to **Software Development and Systems Administration** opportunities.
 - 🌱 Diving deep into **Trailhead (Salesforce)** to expand my expertise.
 - 👯 Open to collaborating on **Open Source Projects** and innovative ideas.
 - 💬 Feel free to ask me anything tech-related – I'm always happy to help!
