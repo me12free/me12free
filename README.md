@@ -1,6 +1,6 @@
-### <h1 align="center">🚀 Hello, I'm John Ekiru! 👋</h1>
+### <h1 align="center">Hello, I'm John Ekiru! 👋</h1>
 
-<h3 align="center"> 🚀A Software Engineer🚀 | Systems Administrator | 📚 Continuous Learner 📚  |  💡 Tech Enthusiast💡</h3>
+<h3 align="center">A Software Engineer | Systems Administrator | Continuous Learner  | Tech Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=me12free&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
@@ -8,13 +8,13 @@
 
 ---
 
-### 🔥 About Me
+### About Me
 
-- 🔭 **Currently open** to **Software Development and Systems Administration** opportunities.
-- 🌱 Diving deep into **Trailhead (Salesforce)** to expand my expertise.
-- 👯 Open to collaborating on **Open Source Projects** and innovative ideas.
-- 💬 Feel free to ask me anything tech-related – I'm always happy to help!
-- 📫 Reach me at: [📩 johnewoi72@gmail.com](mailto:johnewoi72@gmail.com)
+- **Currently open** to **Software Development and Systems Administration** opportunities.
+- Diving deep into **Trailhead (Salesforce)** to expand my expertise.
+- Open to collaborating on **Open Source Projects** and innovative ideas.
+- Feel free to ask me anything tech-related – I'm always happy to help!
+- Reach me at: [📩 johnewoi72@gmail.com](mailto:johnewoi72@gmail.com)
 - ⚡ **Fun fact:** Passionate about solving complex problems and pushing boundaries in tech.
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,php,html,css,js,java,c,cpp,git,linux,mysql,mongodb,vscode" />
@@ -40,7 +40,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=me12free&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -62,6 +62,5 @@
 
 ---
 
-### 🎯 Let's Build Something Amazing Together!
-
-🚀 I’m passionate about **developing scalable applications, optimizing workflows, and tackling complex problems**. If you're working on something exciting, let’s connect and collaborate! 😊
+### Let's Build Something Amazing Together!
+ I’m passionate about **developing scalable applications, optimizing workflows, and tackling complex problems**. If you're working on something exciting, let’s connect and collaborate! 😊
