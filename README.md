@@ -1,4 +1,4 @@
-### <h1 align="center">Hello, I'm John Ekiru! 👋</h1>
+### <h1 align="center">Hello👋, I'm John Ekiru! </h1>
 
 <h3 align="center">A Software Engineer | Systems Administrator | Continuous Learner  | Tech Enthusiast</h3>
 
